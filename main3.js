@@ -4,8 +4,8 @@ const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
 
-const apiId = 27544833;  // Ganti dengan API ID Anda
-const apiHash = '09bc9a746b2c4de9f8b29effe686f418';  // Ganti dengan API Hash Anda
+const apiId = you api id;  // Ganti dengan API ID Anda
+const apiHash = 'you api hash';  // Ganti dengan API Hash Anda
 
 const rl = readline.createInterface({
     input: process.stdin,
